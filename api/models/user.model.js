@@ -15,6 +15,10 @@ const userSchema = new mongoose.Schema({
         type: String,
         required: true,
     },
+    profilePicture:{
+        type: String,
+        default: "https://toppng.com/uploads/preview/file-svg-profile-icon-vector-11562942678pprjdh47a8.png",
+    },
 }, {timestamps: true}
 );
 
