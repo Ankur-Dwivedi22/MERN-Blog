@@ -56,7 +56,7 @@ export default function DashSidebar() {
                 )}
                 {currentUser.isAdmin && (
                     <Link to='/dashboard?tab=users'>
-                <Sidebar.Item active={ tab === 'posts'} icon={HiOutlineUserGroup} >
+                <Sidebar.Item active={ tab === 'users'} icon={HiOutlineUserGroup} >
                     Users
                 </Sidebar.Item>
                 </Link>
