@@ -13,7 +13,7 @@ export default function CallToAction() {
                 Checkout my portfolio website here!!!
             </p>
             <Button gradientDuoTone='purpleToPink' className="rounded-tl-xl rounded-bl-none">
-            <a href="https://webtips.dev/100-javascript-project-ideas" target="_blank" rel="noopener noreferrer">Portfolio</a>
+            <a href="https://ankurdwivediportfolio.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>
             </Button>
         </div>
         <div className="p-7 flex-1">
