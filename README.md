@@ -20,7 +20,6 @@ A simple blog application built using the **MERN stack** where users can read, l
 - **Node.js** – Server  
 
 
----
 
 ## ⚡ Run Locally
 
